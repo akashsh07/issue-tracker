@@ -1,0 +1,27 @@
+.navHeader {
+    width: 100vw;
+    margin: 0;
+    background-color: 	#2b1e30;
+    padding: 20px 50px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerSpan {
+    margin: 0;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+.headerSpan:active,
+.headerSpan:hover {
+    margin: 0;
+    color: rgb(110, 66, 66);
+    text-decoration: none;
+}
+btn btn-light mx-5{
+    background-color: black;
+}
